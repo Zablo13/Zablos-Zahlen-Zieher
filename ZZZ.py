@@ -1,4 +1,4 @@
-####Zablos-Zahlen-Zieher###
+### Zablos-Zahlen-Zieher ###
 from string import ascii_uppercase
 
 # Mapping: Ziffer -> Zahl und Zahl -> Ziffer
